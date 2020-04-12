@@ -1,6 +1,6 @@
 //This example creates A Unique Counter Implementation
 
-package creational
+package singleton
 
 //Singleton is interface have AddOne() method
 type Singleton interface {
